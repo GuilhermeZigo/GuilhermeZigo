@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme de Freitas
 - 🔭 Em busca da primeira experência na área
-- 🌱 Estudando - HTML e JavaScript
+- 🌱 Estudando - Análise e Desenvolvimento de Sistemas
 - 📧 guilherme.freitas528@gmail.com
 
 
