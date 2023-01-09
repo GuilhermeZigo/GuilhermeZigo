@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Guilherme de Freitas
-- 🔭 Em busca da primeira experência na área
+- 🔭 Analista de Sistemas na TVF Software/ESTAPAR
 - 🌱 Estudando - Análise e Desenvolvimento de Sistemas
 - 📧 guilherme.freitas528@gmail.com
 
