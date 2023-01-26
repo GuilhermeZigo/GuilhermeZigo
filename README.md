@@ -2,6 +2,7 @@
 - 🔭 Analista de Sistemas na TVF Software/ESTAPAR
 - 🌱 Estudando - Análise e Desenvolvimento de Sistemas
 - 📧 guilherme.freitas528@gmail.com
+- Linkedln: https://www.linkedin.com/in/guilherme-de-freitas-0b58aa172/
 
 
 <div align="center">
