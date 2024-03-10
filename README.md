@@ -1,11 +1,11 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Guilherme!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Gui!;" />
 </div>
 
-- 🔭 Analista de Sistemas na TVF Software/ESTAPAR
-- 🎓 Formado - Análise e Desenvolvimento de Sistemas
+- 🔭 Systems Analyst at TVF Software/ESTAPAR
+- 🎓 Certified in System Analysis and development
 
 <div align="center" style="display: inline_block"><br>
   
@@ -43,7 +43,7 @@
 </div>
 
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!+😁;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+attention!+😁;" />
 </h1>
 
  
