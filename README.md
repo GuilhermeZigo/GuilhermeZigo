@@ -46,7 +46,8 @@ Gosto de resolver problemas complexos, pensar em soluções escaláveis e buscar
 
 ### 📚 Formação & Certificações
 
-🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** 
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+
 📜 **Diversos cursos técnicos na área de desenvolvimento e arquitetura de software**
 
 ---
@@ -69,4 +70,4 @@ Gosto de resolver problemas complexos, pensar em soluções escaláveis e buscar
 
 ### 👋 Obrigado por visitar meu perfil!
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=60&lines=Até+logo!+😄;Se+cuida!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=60&lines=Até+logo!+😄;" />
