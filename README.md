@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme 👋
 
-**Analista de Sistemas Pleno** | Desenvolvedor .NET  
+**Analista de Sistemas Pleno** | **Desenvolvedor .NET**  
 🌍 Brasil  
 
 ---
@@ -57,14 +57,6 @@ Gosto de resolver problemas complexos, pensar em soluções escaláveis e buscar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillherme-freitas/)  
 [![Instagram](https://img.shields.io/badge/@ziguinhoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ziguinhoo/)  
 [![Gmail](https://img.shields.io/badge/guilherme.freitas528@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.freitas528@gmail.com)
-
----
-
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeZigo&show_icons=true&theme=dark" />
-</div>
 
 ---
 
