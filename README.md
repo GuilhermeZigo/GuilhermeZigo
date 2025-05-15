@@ -1,48 +1,72 @@
+### Olá! Eu sou o Guilherme 👋
 
+**Analista de Sistemas Pleno** | Desenvolvedor .NET  
+🌍 Brasil  
+
+---
+
+### 🔥 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento de software, com mais de **3 anos de experiência** atuando como **analista de sistemas** e apoiando a **liderança técnica** de equipes. Atualmente trabalho na **TVF Software/ESTAPAR**, onde participo de projetos estratégicos, faço onboarding de novos membros e contribuo com **análises técnicas**, **direcionamento de demandas** e **desenvolvimento full stack**, principalmente com foco em .NET.
+
+Gosto de resolver problemas complexos, pensar em soluções escaláveis e buscar **excelência técnica** em tudo o que faço.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### **Linguagens & Frameworks**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Banco de Dados**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **DevOps & Outros**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+### 🎯 Competências
+
+✔ **Desenvolvimento Back-End com .NET**  
+✔ **Análise técnica de código e orientação de equipe**  
+✔ **Integrações assíncronas com RabbitMQ**  
+✔ **Banco de Dados (SQL Server & PostgreSQL)**  
+✔ **Containers e deploy com Docker**  
+✔ **Documentação técnica e apoio ao onboarding**  
+✔ **Proatividade e foco em resultado**  
+
+---
+
+### 📚 Formação & Certificações
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** 
+📜 **Diversos cursos técnicos na área de desenvolvimento e arquitetura de software**
+
+---
+
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillherme-freitas/)  
+[![Instagram](https://img.shields.io/badge/@ziguinhoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ziguinhoo/)  
+[![Gmail](https://img.shields.io/badge/guilherme.freitas528@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.freitas528@gmail.com)
+
+---
+
+### ⚡ GitHub Stats
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Gui!;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeZigo&show_icons=true&theme=dark" />
 </div>
 
-- 🔭 Systems Analyst at TVF Software/ESTAPAR
-- 🎓 Certified in System Analysis and development
+---
 
-<div align="center" style="display: inline_block"><br>
-  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <br>
-  <br>
+### 👋 Obrigado por visitar meu perfil!
 
-
-<div align="center" >
- 
-  <a href="https://www.instagram.com/ziguinhoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guillherme-freitas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilherme.freitas528@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-<h1 align="center" >⚡Stats⚡</h2>
-<br>
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeZigo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeZigo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
-</picture>
-</div>
-
-<h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+attention!+😁;" />
-</h1>
-
- 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=60&lines=Até+logo!+😄;Se+cuida!;" />
