@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Guilherme 👋
 
 **Analista de Sistemas Pleno** | **Desenvolvedor .NET**  
-🌍 Brasil  
-
 ---
 
 ### 🔥 Sobre mim
